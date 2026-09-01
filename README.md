@@ -11,6 +11,8 @@ Insights and recommendations are provided on the following key areas:
 - **Sales Analysis:** Revenue and profitability trends by branch, time, and product line.
 - **Branch & City Comparisons:** Revenue and rating performance across branches and cities.
 
+The original dataset can be found on Kaggle [here](https://www.kaggle.com/datasets/antaesterlin/walmart-commerce-data).
+
 ## Data Structure
 The dataset consists of a single table, `WalmartSQL repository`, with the following columns:
 
