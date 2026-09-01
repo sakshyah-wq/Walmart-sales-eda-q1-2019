@@ -15,11 +15,11 @@ The original dataset can be found on Kaggle [here](https://www.kaggle.com/datase
 
 The SQL queries utilized to inspect and perform quality checks can be found [here](https://github.com/sakshyah-wq/Walmart-sales-eda-q1-2019/blob/main/data_quality_check.sql).
 
-The SQL queries utilized to answer product-related business questions can be found [here](link-to-product_analysis.sql).
+The SQL queries utilized to answer product-related business questions can be found [here](https://github.com/sakshyah-wq/Walmart-sales-eda-q1-2019/blob/main/product_analysis.sql).
 
-The SQL queries utilized to answer customer-related business questions can be found [here](link-to-customer_analysis.sql).
+The SQL queries utilized to answer customer-related business questions can be found [here](https://github.com/sakshyah-wq/Walmart-sales-eda-q1-2019/blob/main/Customer_analysis.sql ).
 
-The SQL queries utilized to answer sales-related business questions can be found [here](link-to-sales_analysis.sql).
+The SQL queries utilized to answer sales-related business questions can be found [here](https://github.com/sakshyah-wq/Walmart-sales-eda-q1-2019/blob/main/Sales_analysis.sql ).
 
 ## Data Structure
 The dataset consists of a single table, `WalmartSQL repository`, with the following columns:
